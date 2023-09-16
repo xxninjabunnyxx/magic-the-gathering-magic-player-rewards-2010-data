@@ -1,0 +1,17 @@
+---
+object: set
+id: d871e33b-7086-4549-89d6-fedd4422161f
+code: p10
+name: Magic Player Rewards 2010
+uri: https://api.scryfall.com/sets/d871e33b-7086-4549-89d6-fedd4422161f
+scryfall_uri: https://scryfall.com/sets/p10
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap10&unique=prints
+released_at: '2010-01-01'
+set_type: promo
+card_count: 13
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: mpr
+block: Magic Player Rewards
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800
